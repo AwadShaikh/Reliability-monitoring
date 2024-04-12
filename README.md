@@ -1,6 +1,5 @@
 # Reliability-monitoring
 
-# Attack-Simulation-# Microsoft-Defender-Labs
 
 
 <h2>Description</h2>
