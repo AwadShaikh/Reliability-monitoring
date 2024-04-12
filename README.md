@@ -18,7 +18,7 @@ Windows Reliability Monitoring
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch Windows Reliability tool: <br/>
+Launching Windows Reliability tool: <br/>
 <img src="https://imgur.com/phaYkp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
