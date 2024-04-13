@@ -19,15 +19,15 @@ Windows Reliability Monitoring
 
 <p align="center">
 Launching Windows Reliability tool: <br/>
-<img src="https://imgur.com/phaYkp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/phaYkp7.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Investigating the application system errors in detials it helps us resolve issues and check or reliability of the system:  <br/>
-<img src="https://imgur.com/G5zJs0L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Investigating the application system errors in detials it helps us resolve issues and check  reliability of the system:  <br/>
+<img src="https://imgur.com/G5zJs0L.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Investigating general information of the system : <br/>
-<img src="https://imgur.com/OKx2gq3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OKx2gq3.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
